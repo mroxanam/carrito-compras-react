@@ -17,6 +17,8 @@
   
   .tarjeta-contenido {
     flex: 1;
+    -ms-flex: 1; /* Prefijo para Internet Explorer 10+ */
+  }
   }
   
   .tarjeta-titulo {
